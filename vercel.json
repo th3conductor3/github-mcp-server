@@ -11,8 +11,5 @@
       "src": "/(.*)",
       "dest": "/mcp-server.js"
     }
-  ],
-  "env": {
-    "GITHUB_TOKEN": "@github_token"
-  }
+  ]
 }
