@@ -4,7 +4,7 @@ const https = require('https');
 
 const app = express();
 const PORT = process.env.PORT || 3001;
-const GITHUB_TOKEN = process.env.GITHUB_TOKEN;
+const GITHUB_TOKEN = process.env.GITHUB_TOKEN || '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';
 
 app.use(express.json());
 
