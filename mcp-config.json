@@ -1,0 +1,10 @@
+{
+  "mcpServers": {
+    "github-mcp-server": {
+      "command": "node",
+      "args": ["mcp-server.js"],
+      "cwd": ".",
+      "env": {}
+    }
+  }
+}
